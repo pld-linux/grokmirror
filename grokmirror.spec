@@ -3,7 +3,7 @@ Summary:	Framework to smartly mirror git repositories
 Summary(pl.UTF-8):	Szkielet do eleganckiego tworzenia kopii lustrzanych repozytoriów git
 Name:		grokmirror
 Version:	2.0.7
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Networking/Utilities
 Source0:	https://www.kernel.org/pub/software/network/grokmirror/%{name}-%{version}.tar.xz
