@@ -2,12 +2,12 @@
 Summary:	Framework to smartly mirror git repositories
 Summary(pl.UTF-8):	Szkielet do eleganckiego tworzenia kopii lustrzanych repozytoriów git
 Name:		grokmirror
-Version:	2.0.7
-Release:	2
+Version:	2.0.8
+Release:	1
 License:	GPL v3+
 Group:		Networking/Utilities
 Source0:	https://www.kernel.org/pub/software/network/grokmirror/%{name}-%{version}.tar.xz
-# Source0-md5:	72fa31a0b17d9ac6d6dc22aec783b030
+# Source0-md5:	bbf6174c58b048f3143b5204fddc4d8a
 URL:		https://git.kernel.org/cgit/utils/grokmirror/grokmirror.git
 BuildRequires:	python3 >= 1:3.6
 BuildRequires:	python3-setuptools
